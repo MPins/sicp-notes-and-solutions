@@ -69,7 +69,7 @@ Some answers may evolve over time as my understanding improves.
 
 * [ ] Chapter 1 (not archived)
 * [x] Chapter 2 (partial recovery)
-* [ ] Chapter 3 (currently reading Section 3.2)
+* [ ] Chapter 3 (currently reading Section 3.3)
 * [ ] Chapter 4
 * [ ] Chapter 5
 
