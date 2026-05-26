@@ -1,5 +1,5 @@
 ;Exercise 3.50
-(load "../journal/stream.scm")
+(include "../journal/stream.scm")
 (define (stream-map proc . argstreams)
     (if (stream-null? (car argstreams))
         the-empty-stream
