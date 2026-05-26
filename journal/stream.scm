@@ -1,5 +1,6 @@
-(define (cons-stream a b)
-    (cons a (delay b)))
+(define-syntax cons-stream
+    (syntax-rules ()
+        ((_ a b) (cons a (delay b)))))
 
 (define (stream-null? s)
     (null? s))
