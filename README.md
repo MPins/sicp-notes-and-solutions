@@ -69,8 +69,8 @@ Some answers may evolve over time as my understanding improves.
 
 * [ ] Chapter 1 (not archived)
 * [x] Chapter 2 (partial recovery)
-* [ ] Chapter 3 (currently reading Section 3.3)
-* [ ] Chapter 4
+* [x] Chapter 3 
+* [x] Chapter 4 (currently reading Section 4.2)
 * [ ] Chapter 5
 
 ## Motivation
