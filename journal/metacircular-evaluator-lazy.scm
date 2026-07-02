@@ -420,10 +420,10 @@
   (setup-environment))
 
 (define input-prompt
-  "... M-Eval input:")
+  "... M-Lazy-Eval input:")
 
 (define output-prompt
-  "... M-Eval value:")
+  "... M-Lazy-Eval value:")
 
 (define (prompt-for-input string)
   (newline)
