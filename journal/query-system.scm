@@ -1,3 +1,7 @@
+;;The file assert.txt contains assertions to populate the data base.
+;;This way the query system can be tested without having to type in
+;;the assertions each time.
+
 (define true #t)
 (define false #f)
 
