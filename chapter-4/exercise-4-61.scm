@@ -1,4 +1,4 @@
-;Exercise 4.61: e following rules implement a next-to relation that
+;Exercise 4.61: The following rules implement a next-to relation that
 ;finds adjacent elements of a list:
 (assert! (rule (?x next-to ?y in (?x ?y . ?u))))
 (assert! (rule (?x next-to ?y in (?v . ?z))
