@@ -71,7 +71,7 @@ Some answers may evolve over time as my understanding improves.
 * [x] Chapter 2 (partial recovery)
 * [x] Chapter 3 
 * [x] Chapter 4
-* [x] Chapter 5 (currently reading Section 5.1)
+* [x] Chapter 5 (currently reading Section 5.3)
 
 ## Motivation
 
